@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=CodeLikeAlexito%20&desc=Where%20ordinary%20coding%20becomes%20extraordinary!)" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=CodeLikeAlexito%20&desc=Where%20ordinary%20coding%20becomes%20extraordinary!" />
 <!--
 **CodeLikeAlexito/CodeLikeAlexito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=CodeLikeAlexito%20&desc=Where%20ordinary%20coding%20becomes%20extraordinary!
