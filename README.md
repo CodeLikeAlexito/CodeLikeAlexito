@@ -1,6 +1,8 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=CodeLikeAlexito%20&desc=Where%20ordinary%20coding%20becomes%20extraordinary!" alt="CodeLikeAlexito" />
+</p>
 
-## Hi there 👋 Let's connect and have a chat!
+<h2 align="center"> 🚀 &nbsp;Hi there 👋 Let's connect and have a chat!</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aleksandar-ivanov-847968152/">
@@ -56,4 +58,5 @@ experience: ["Fullstack Software Engineer - present", "Java Software Engineer"
 <h2 align="center"> 📈 &nbsp;My GitHub History</h2>
 
 [![CodeLikeAlexito's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeLikeAlexito)](https://github.com/CodeLikeAlexito/github-readme-stats)
+<br />
 ![Snake animation](https://github.com/CodeLikeAlexito/CodeLikeAlexito/blob/output/github-contribution-grid-snake.svg)
