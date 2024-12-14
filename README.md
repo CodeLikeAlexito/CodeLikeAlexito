@@ -56,4 +56,4 @@ experience: ["Fullstack Software Engineer - present", "Java Software Engineer"
 <h2 align="center"> 📈 &nbsp;My GitHub History</h2>
 
 [![CodeLikeAlexito's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeLikeAlexito)](https://github.com/CodeLikeAlexito/github-readme-stats)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CodeLikeAlexito/CodeLikeAlexito/blob/output/github-contribution-grid-snake.svg)
